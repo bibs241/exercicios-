@@ -15,11 +15,12 @@ public class PrimeiroPrograma{
             System.out.println("resposta c");
         }
           
-           
-        
-           
-         
-         
+        // tabela valores 
+        // 11     b
+        // 455    c
+        // -2     a 
+        // -5     a 
+        // 155    c 
           
              
     
